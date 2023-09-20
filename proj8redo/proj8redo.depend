@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681101242 source:c:\users\janja\documents\csi 1440\proj8redo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

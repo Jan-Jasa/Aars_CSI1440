@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1674436103 source:c:\users\janja\documents\csi 1440\proj1-main\main.cpp
+	<iostream>
+	"proj1-person.hpp"
+	<fstream>
+	<sstream>
+
+1674419739 c:\users\janja\documents\csi 1440\proj1-main\proj1-person.hpp
+	<iostream>
+	<string>
+
+1674436340 source:c:\users\janja\documents\csi 1440\proj1-main\proj1-person.cpp
+	"proj1-person.hpp"
+	<sstream>
+	<iostream>
+	<fstream>
+

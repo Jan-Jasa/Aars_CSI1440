@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680474421 source:c:\users\janja\documents\csi 1440\proj7\main.cpp
+	<iostream>
+	"proj7-MyVector.h"
+	<stdexcept>
+
+1680474486 c:\users\janja\documents\csi 1440\proj7\proj7-myvector.h
+	"proj7-ContainerIfc.h"
+	<iostream>
+
+1680386333 c:\users\janja\documents\csi 1440\proj7\proj7-containerifc.h
+

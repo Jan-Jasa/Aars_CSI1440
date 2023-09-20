@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1675035650 source:c:\users\janja\documents\csi 1440\proj2\main.cpp
+	"proj2-arrayFunctions.h"
+	<fstream>
+
+1675024872 c:\users\janja\documents\csi 1440\proj2\proj2-arrayfunctions.h
+
+1675028439 source:c:\users\janja\documents\csi 1440\proj2\proj2-arrayfunctions.cpp
+	"proj2-arrayFunctions.h"
+	<iostream>
+	<cstring>
+	<iomanip>
+
+1675035754 source:c:\users\janja\documents\csi 1440\proj2\proj2-test.cpp
+	<iostream>
+	"proj2-arrayFunctions.h"
+	<sstream>
+	<fstream>
+

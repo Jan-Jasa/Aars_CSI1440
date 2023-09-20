@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677444706 source:c:\users\janja\documents\csi 1440\proj4\proj4\main.cpp
+
+1677475851 source:c:\users\janja\documents\csi 1440\proj4\proj4\proj4-main.cpp
+	<iostream>
+	<fstream>
+	"proj4-ItemInfo.hpp"
+
+1677463698 source:c:\users\janja\documents\csi 1440\proj4\proj4\proj4-iteminfo.cpp
+	"proj4-ItemInfo.hpp"
+
+1677444296 c:\users\janja\documents\csi 1440\proj4\proj4\proj4-iteminfo.hpp
+	<iostream>
+	<iomanip>
+
+1677464660 source:c:\users\janja\documents\csi 1440\proj4\proj4\proj4-testmain.cpp
+	<iostream>
+	"proj4-ItemInfo.hpp"
+
